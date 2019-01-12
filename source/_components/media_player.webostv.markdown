@@ -170,7 +170,7 @@ data:
 
 ### {% linkable_title Next/Previous buttons %}
 
-The behaviour of the next and previsous buttons is different depending on the
+The behaviour of the next and previous buttons is different depending on the
 active source:
 
  - if the source is 'LiveTV' (television): next/previous buttons act as channel up/down
